@@ -11,7 +11,7 @@ public class EncuentraPrimos {
 		Primos p2 = new Primos (2000001,4000000, "Hilo2");
 		Primos p3 = new Primos (4000001,6000000, "Hilo3");
 		Primos p4 = new Primos (6000001,8000000, "Hilo4");
-		Primos p = new Primos(1, 8000000, "");
+		Primos p = new Primos(1, 8000000, " ");
 		
 		p1.calcular();
 		p2.calcular();
